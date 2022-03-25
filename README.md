@@ -1,5 +1,5 @@
 # HumC
-Code for simulations and real data analysis in 'Efficient computing the general hypervolume under ROC manifold for Large Data'
+Code for simulations and real data analysis in 'A network approach to compute hypervolume under ROC manifold for multi-class biomarkers'
 
 ## Description
 Detailed implementations of the proposed efficient HUM computing algorithm:
